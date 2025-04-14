@@ -1,0 +1,9 @@
+# requirements.txt
+transformers==4.38.2
+datasets==2.18.0
+scikit-learn==1.4.1
+pandas==2.2.2
+torch==2.2.1
+tqdm==4.66.2
+google-cloud-storage==2.16.0
+python-dotenv==1.0.1
