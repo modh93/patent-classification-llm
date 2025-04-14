@@ -29,7 +29,7 @@ This repository provides a complete pipeline for classifying patent abstracts us
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/patent-classification.git
+git clone https://github.com/your-username/patent-classification-llm.git
 cd patent-classification
 ```
 
